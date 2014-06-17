@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.tenchiwang.manager.EventManager"/>
+    <classEntry path="com.tenchiwang.unitTest.BasicUnitTestCase"/>
+    <classEntry path="com.tenchiwang.security.SecuritySimple"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
